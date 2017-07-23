@@ -1,0 +1,5 @@
+Bundle 'godlygeek/csapprox'
+Bundle 'nanotech/jellybeans.vim'
+Bundle 'terryma/vim-multiple-cursors'
+Bundle 'rking/ag.vim'
+Bundle 'vimwiki/vimwiki'
